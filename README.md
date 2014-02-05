@@ -1,4 +1,6 @@
-ensembl-git-test
+Ensembl-git-test
 ================
 
 Dummy repository to test git operations and scripts
+
+- edit on the main repo
