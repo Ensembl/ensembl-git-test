@@ -4,6 +4,7 @@ Ensembl-git-test
 Dummy repository to test git operations and scripts
 A
 B
+2
 C
 3
 D
