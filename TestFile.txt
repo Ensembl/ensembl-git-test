@@ -5,6 +5,7 @@ AA
 U
 I
 O
+MERGE
 T
 B
 A
